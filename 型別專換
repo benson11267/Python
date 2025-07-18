@@ -1,0 +1,12 @@
+int`：整數
+- `float`：小數
+- `str`：字串
+- `bool`：True / False
+
+```python
+# 範例
+age = 17
+height = 175.5
+name = "博群"
+is_student = True
+print(name + "的年齡是：" + str(age))
